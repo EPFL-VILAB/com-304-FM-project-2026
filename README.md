@@ -8,6 +8,8 @@ Throughout the course, you will get familiar with key concepts and models such a
 
 The main part of the exercises will be about implementing `nano4M`, a minimal version of 4M, which will give you a practical understanding of how to design and train multimodal foundation models. In addition, you will implement a series of extensions of your choice on top of the `nano4M` codebase.
 
+![4M Architecture](./assets/4M_architecture.png)
+
 Following the `nano4M` exercise, there will be two advanced exercises, one on **Flow Matching** (`nanoFlowMatching`) and one on **Vision-Language Models** (`nanoVLM`).
 
 To ensure you grasp these concepts, we have designed exercises in the provided Jupyter notebooks. These exercises will help you verify your understanding as you progress through the materials.
@@ -66,3 +68,6 @@ Check out the [nanoFlowMatching notebook](TODO) for the full set of exercises an
 In this advanced homework, you will implement a minimal **[Vision-Language Models (VLMs)](https://llava-vl.github.io)**. You will learn how to combine **visual encoders** with **language models**, enabling multimodal understanding and reasoning across vision and language tasks.
 
 You can find the exercises and detailed instructions in the [nanoVLM notebook](TODO).
+
+## Project Guidelines
+You can find more details and the project guidelines in the [project guidelines PDF](COM_304_Spring_2026_nano4M_Project_Guidelines.pdf) file.
