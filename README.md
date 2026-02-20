@@ -1,4 +1,5 @@
-# COM-304: Communication Project. Foundation Model.
+# COM-304 Intelligent systems: communications & AI.
+## Foundation models (FM) track. 
 
 The goal of this project is to familiarize you with the essential building blocks that make up modern large language and multimodal models. 
 
@@ -29,8 +30,10 @@ Each homework notebook will be released according to the schedule below. For mos
 | nanoVLM Notebook | 2 Apr | 24 Apr |
 
 ## Notebooks
-### 1. SCITAS
-Follow the provided instructions at [SCITAS Tutorial (coming soon)](./SCITAS_Tutorial/scitas_tutorial.md) to set up your **SCITAS environment**.
+### 1. SCITAS & gnoto
+We provide 2 types of compute platforms for the FM track. Using SCITAS is recommended for compute-demanding homeworks like homework 4 (4M Tutorial) & homework 5 (nano4M). For debugging, visualizations, and completing exercises that are not very compute-intensive (e.g., the PyTorch tutorial), we recommend using gnoto resources.
+- Follow the provided instructions at [SCITAS tutorial](./SCITAS_Tutorial/scitas_tutorial.md) to set up your **SCITAS environment**. 
+- To use GPU-powered Jupyter notebooks, follow the instructions provided at [gnoto tutorial](./gnoto_Tutorial/gnoto_tutorial.md).
 
 ### 2. Homework 1: PyTorch [Worth 5% of your overall grade]
 [PyTorch](https://pytorch.org/) is an **open-source deep learning framework**, which provides a flexible and intuitive way to build deep learning models.
