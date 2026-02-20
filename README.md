@@ -35,7 +35,7 @@ Follow the provided instructions at [SCITAS Tutorial (coming soon)](./SCITAS_Tut
 ### 2. Homework 1: PyTorch [Worth 5% of your overall grade]
 [PyTorch](https://pytorch.org/) is an **open-source deep learning framework**, which provides a flexible and intuitive way to build deep learning models.
 
-In the [PyTorch_Tutorial (coming soon)](./PyTorch_Tutorial/) folder, you will find three tutorials covering the **basic usage of PyTorch** and the corresponding exercises. 
+In the [PyTorch_Tutorial](./PyTorch_Tutorial/) folder, you will find three tutorials covering the **basic usage of PyTorch** and the corresponding exercises. 
 
 If you are already familiar with PyTorch, you can proceed directly to the exercises.
 
