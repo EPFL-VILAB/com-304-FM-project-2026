@@ -13,3 +13,6 @@ Note that the tutorials are not mandatory if you have already familiar with PyTo
 The three PyTorch exercises are mandatory and there are 100 points in total and count for 9% of your final grade.
 
 The primary resource for this homework is [learnpytorch.io](https://www.learnpytorch.io/), an excellent open-source website where you can explore more about PyTorch.
+
+### Using Jupyter notebooks on Kuma cluster: 
+Follow the instructions in [JUPYTER.md](./JUPYTER.md) for using Jupyter notebooks in Kuma cluster. 
