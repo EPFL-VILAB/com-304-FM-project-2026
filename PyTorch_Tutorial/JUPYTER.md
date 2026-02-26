@@ -63,9 +63,9 @@ Open a terminal and use the following command to connect to the Kuma cluster. If
    ```bash
    ssh -L 8888:<ip-address>:8888 -l <user> kuma.hpc.epfl.ch -f -N
    ```
-6. On your local machine, open a web browser and enter the URL that we found above
+6. On your local machine, open a web browser and enter the local URL that we found above
    ```
-   http://10.91.27.4:8888/lab?token=fa2a4a4160404f50ecd240b1180db7a35348f73a62537d04
+   http://127.0.0.1:8888/lab?token=fa2a4a4160404f50ecd240b1180db7a35348f73a62537d04
    ```
 7. Check the status of the Jupyter notebook server. You can check the GPU and torch version with the following commands, and you should see something like the following.
    ![](assets/gpu_check_kuma.png) 
