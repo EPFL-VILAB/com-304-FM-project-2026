@@ -59,6 +59,8 @@ Open a terminal and use the following command to connect to the Kuma cluster. If
    http://10.91.27.4:8888/lab?token=fa2a4a4160404f50ecd240b1180db7a35348f73a62537d04
    ```
 
+> **Note:** In some cases the port `8888` might be already in use, and so jupyter will automatically use a different port. If so, for the next steps, you will need to replace the port `8888` with the port number specified in the IP address line above.
+
 5. Forward the port from the compute node to your **local machine**, by executing the following command on **your local machine**. Replace `<ip-address>` with the IP address you noted down in the previous step.
    ```bash
    ssh -L 8888:<ip-address>:8888 -l <user> kuma.hpc.epfl.ch -f -N
