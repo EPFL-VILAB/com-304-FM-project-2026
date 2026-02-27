@@ -36,7 +36,7 @@ Open a terminal and use the following command to connect to the Kuma cluster. If
    ```
 3. We have prepared a Conda environment that contains the necessary packages. To activate it, please run:
    ```bash
-   source /work/com-304/anaconda3/etc/profile.d/conda.sh
+   source /work/com-304/new_environment/anaconda3/etc/profile.d/conda.sh
    conda init
    conda activate fourm
    ```
