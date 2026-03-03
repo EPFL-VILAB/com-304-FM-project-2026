@@ -45,7 +45,7 @@ If you are already familiar with PyTorch, you can proceed directly to the exerci
 ### 3. Homework 2: nanoGPT [Worth 7.5% of your overall grade]
 In this homework, you will implement the necessary building blocks to construct an **autoregressive Transformer**, like **[GPT](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)**. Through this homework, you will gain experience with **causal attention**, **decoder-only Transformer** models, basic **tokenization**, **positional encodings**, and **autoregressive modelling** on text and images.
 
-To get started, follow the instructions in the [nanoGPT notebook (coming soon)](TODO) to fill in the missing code, run the training loops, and evaluate the trained models.
+To get started, follow the instructions in the [nanoGPT notebook](./nano4M/notebooks/COM304_FM_part1_nanoGPT.ipynb) to fill in the missing code, run the training loops, and evaluate the trained models.
 
 ### 4. Homework 3: nanoMaskGIT [Worth 10% of your overall grade]
 In this homework, you will implement a **masked generative model** in the style of **[MaskGIT](https://masked-generative-image-transformer.github.io/)**. Along the way, you will learn about **bi-directional attention**, **encoder-only Transformer** models, basic **masking schemes**, and **masked modelling** on text and images.
