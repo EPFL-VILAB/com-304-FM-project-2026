@@ -55,7 +55,7 @@ You can find the exercises and detailed instructions in the [nanoMaskGIT noteboo
 ### 5. Homework 4: 4M Tutorial [Worth 7.5% of your overall grade]
 You will explore the multimodal foundation model **[4M](https://4m.epfl.ch/)**. This hands-on experience will help you understand the model's key components and how to utilize its pipeline for generation and retrieval tasks.
 
-Follow the instructions in the [4M_Tutorial (coming soon)](TODO) folder to learn more about the model, set up the required environment, and experiment with the provided Jupyter notebooks!
+Follow the instructions in the [4M_Tutorial](./4M_Tutorial/) folder to learn more about the model, set up the required environment, and experiment with the provided Jupyter notebooks!
 
 ### 6. Homework 5: nano4M [Worth 20% of your overall grade]
 You will implement a minimal version of 4M, which will give you a practical understanding of how to design and train multimodal foundation models.
