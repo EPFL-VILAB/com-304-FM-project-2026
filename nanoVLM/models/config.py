@@ -44,7 +44,7 @@ class TrainConfig:
     lr_backbones: float = 1e-4
     data_cutoff_idx: int = None
     val_ratio: float = 0.01
-    batch_size: int = 256
+    batch_size: int = 128
     mmstar_batch_size: int = 128
     gradient_accumulation_steps: int = 1
     eval_in_epochs: bool = True
